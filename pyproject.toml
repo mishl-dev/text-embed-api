@@ -3,7 +3,7 @@ name = "text-embed-api"
 version = "0.1.0"
 description = "Production-ready embedding API using Nomic Embed Text v1.5 model."
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.9"
 dependencies = [
     "einops>=0.8.1",
     "litestar>=2.18.0",

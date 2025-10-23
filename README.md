@@ -2,6 +2,7 @@
 
 <p align="center">
 <a href="https://www.python.org/downloads/"><img alt="Python" src="https://img.shields.io/badge/python-3.9+-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"></a>
+<a href="https://github.com/astral-sh/ruff"><img alt="Code style: ruff" src="https://img.shields.io/badge/code%20style-ruff-black.svg?style=for-the-badge&logo=ruff&logoColor=white"></a>
 <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-brightgreen.svg?style=for-the-badge"></a>
 <a href="https://litestar.dev/"><img alt="Framework" src="https://img.shields.io/badge/Built%20with-Litestar-8C43F6.svg?style=for-the-badge&logo=litestar"></a>
 </p>
