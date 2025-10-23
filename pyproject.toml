@@ -1,0 +1,14 @@
+[project]
+name = "text-embed-api"
+version = "0.1.0"
+description = "Production-ready embedding API using Nomic Embed Text v1.5 model."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "einops>=0.8.1",
+    "litestar>=2.18.0",
+    "pydantic>=2.12.3",
+    "pydantic-settings>=2.11.0",
+    "sentence-transformers>=5.1.2",
+    "uvicorn>=0.38.0",
+]
